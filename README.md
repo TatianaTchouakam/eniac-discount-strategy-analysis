@@ -1,5 +1,9 @@
 # ⚡ ENIAC — Discount Strategy Analysis  
 ## Business & Data Analysis (Python | Google Colab)
+- [ENIAC Discount Strategy — Business Analysis](notebooks/eniac_discount_strategy_business_analysis.ipynb)
+
+This notebook contains the full analysis, including data cleaning, business questions, visualizations, and strategic recommendations.
+
 
 ---
 
@@ -115,6 +119,5 @@ to improve ENIAC’s data collection process.
 
 ## 📎 Deliverables
 - Python notebooks (data cleaning, categorization, analysis)
-- Business presentation: *ENIAC Discount Strategy Analysis*
 
 
